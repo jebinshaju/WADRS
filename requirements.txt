@@ -1,0 +1,7 @@
+opencv-python
+pygame
+ultralytics
+python-telegram-bot==20.0b1
+python-dotenv
+numpy
+
